@@ -5,4 +5,4 @@ document類
 以下のGithub Pagesで公開  
 [https://teamf-com2019.github.io/connect2019-document/idea.html](https://teamf-com2019.github.io/connect2019-document/idea.html)  
 
-**Slack連携してみました。2019.10.03**
+**Slack連携してみました2。2019.10.03**
